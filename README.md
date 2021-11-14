@@ -1,4 +1,4 @@
-# Minecraft-ADS-sMod
+# Minecraft-ADS-sMod - Source Code
 This is the Minecraft Mod "ADS's Mod"download file.
-Thanks for the playing.
-The minecraft mod Launguage is Chinese
+You can get the code from here.
+You can't say this mod is you makes.
